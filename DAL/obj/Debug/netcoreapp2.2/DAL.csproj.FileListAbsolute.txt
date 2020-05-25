@@ -1,0 +1,11 @@
+C:\Users\verst\Desktop\HIK\PR5\X. Opdracht\MacoBikes\MacoBikes\DAL\bin\Debug\netcoreapp2.2\DAL.deps.json
+C:\Users\verst\Desktop\HIK\PR5\X. Opdracht\MacoBikes\MacoBikes\DAL\bin\Debug\netcoreapp2.2\DAL.dll
+C:\Users\verst\Desktop\HIK\PR5\X. Opdracht\MacoBikes\MacoBikes\DAL\bin\Debug\netcoreapp2.2\DAL.pdb
+C:\Users\verst\Desktop\HIK\PR5\X. Opdracht\MacoBikes\MacoBikes\DAL\bin\Debug\netcoreapp2.2\Model.dll
+C:\Users\verst\Desktop\HIK\PR5\X. Opdracht\MacoBikes\MacoBikes\DAL\bin\Debug\netcoreapp2.2\Model.pdb
+C:\Users\verst\Desktop\HIK\PR5\X. Opdracht\MacoBikes\MacoBikes\DAL\obj\Debug\netcoreapp2.2\DAL.csprojAssemblyReference.cache
+C:\Users\verst\Desktop\HIK\PR5\X. Opdracht\MacoBikes\MacoBikes\DAL\obj\Debug\netcoreapp2.2\DAL.AssemblyInfoInputs.cache
+C:\Users\verst\Desktop\HIK\PR5\X. Opdracht\MacoBikes\MacoBikes\DAL\obj\Debug\netcoreapp2.2\DAL.AssemblyInfo.cs
+C:\Users\verst\Desktop\HIK\PR5\X. Opdracht\MacoBikes\MacoBikes\DAL\obj\Debug\netcoreapp2.2\DAL.csproj.CopyComplete
+C:\Users\verst\Desktop\HIK\PR5\X. Opdracht\MacoBikes\MacoBikes\DAL\obj\Debug\netcoreapp2.2\DAL.dll
+C:\Users\verst\Desktop\HIK\PR5\X. Opdracht\MacoBikes\MacoBikes\DAL\obj\Debug\netcoreapp2.2\DAL.pdb

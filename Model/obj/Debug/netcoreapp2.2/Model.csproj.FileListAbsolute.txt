@@ -1,0 +1,8 @@
+C:\Users\verst\Desktop\HIK\PR5\X. Opdracht\MacoBikes\MacoBikes\Model\bin\Debug\netcoreapp2.2\Model.deps.json
+C:\Users\verst\Desktop\HIK\PR5\X. Opdracht\MacoBikes\MacoBikes\Model\bin\Debug\netcoreapp2.2\Model.dll
+C:\Users\verst\Desktop\HIK\PR5\X. Opdracht\MacoBikes\MacoBikes\Model\bin\Debug\netcoreapp2.2\Model.pdb
+C:\Users\verst\Desktop\HIK\PR5\X. Opdracht\MacoBikes\MacoBikes\Model\obj\Debug\netcoreapp2.2\Model.AssemblyInfoInputs.cache
+C:\Users\verst\Desktop\HIK\PR5\X. Opdracht\MacoBikes\MacoBikes\Model\obj\Debug\netcoreapp2.2\Model.AssemblyInfo.cs
+C:\Users\verst\Desktop\HIK\PR5\X. Opdracht\MacoBikes\MacoBikes\Model\obj\Debug\netcoreapp2.2\Model.dll
+C:\Users\verst\Desktop\HIK\PR5\X. Opdracht\MacoBikes\MacoBikes\Model\obj\Debug\netcoreapp2.2\Model.pdb
+C:\Users\verst\Desktop\HIK\PR5\X. Opdracht\MacoBikes\MacoBikes\Model\obj\Debug\netcoreapp2.2\Model.csprojAssemblyReference.cache
